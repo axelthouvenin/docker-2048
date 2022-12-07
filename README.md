@@ -2,7 +2,7 @@
 
 simple is better
 
-modif axel
+modif axel zz
 
 a smaller docker version of 2048
 
